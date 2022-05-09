@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi 👋 My name is Teodoro Garcie
+Hi 👋 My name is Teodoro Garcia
 ===============================
 
 Full-Stack Dev
