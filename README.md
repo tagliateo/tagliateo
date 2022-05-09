@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 Hi 👋 My name is Teodoro Garcia
 ===============================
 
