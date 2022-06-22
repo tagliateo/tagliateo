@@ -9,7 +9,7 @@ Experience includes Ruby on Rails, JavaScript, Python3, React, SAP UI5 Fiori, Bi
 *   🌍  I'm based in Austin, TX
 *   ✉️  You can contact me at [teodoro.garcia1@pm.me](mailto:teodoro.garcia1@pm.me)
 *   🚀  I'm currently working on [a SAP UI5 Fiori App for my employer](http://infosys.com)
-*   🧠  I'm learning Elixir and Flask
+*   🧠  I'm learning Elixir, Flask, and Coffeescript
 *   🤝  I'm open to collaborating on on anything really... especially if it is open source
 *   ⚡  Btw I use Arch
 ### Skills
