@@ -4,7 +4,7 @@ Hi 👋 My name is Teodoro Garcia
 Full-Stack Dev
 --------------
 
-Experience includes Ruby on Rails, JavaScript, Python3, React, SAP UI5 Fiori, Big Data frameworks such as PySpark and Apache Spark using Scala and Java (it’s in 6 billion devices). I’m a proud bootcamp grad and former public school teacher. I don't commit often because I'm working with a private company using their systems.
+Experience includes Ruby on Rails, JavaScript, Python3, React, SAP UI5 Fiori, Big Data frameworks such as PySpark and Apache Spark using Scala and Java (it’s in 6 billion devices). I’m a proud bootcamp grad and former public school teacher.
 
 *   🌍  I'm based in Austin, TX
 *   ✉️  You can contact me at [teodoro.garcia1@pm.me](mailto:teodoro.garcia1@pm.me)
