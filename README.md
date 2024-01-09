@@ -7,7 +7,7 @@ Full-Stack Dev
 Experience includes Ruby on Rails, JavaScript, Python3, React, SAP UI5 Fiori, Big Data frameworks such as PySpark and Apache Spark using Scala and Java (it’s in 6 billion devices). I’m a proud bootcamp grad and former public school teacher.
 
 *   🌍  I'm based in Austin, TX
-*   ✉️  You can contact me at [tedg18@pm.me](mailto:tedg18@pm.me)
+*   ✉️  You can contact me at [tedg18@pm.me](mailto:sardines@disroot.org)
 *   🚀  I'm currently looking for employment
 *   🧠  I'm learning Rust and Svelte
 *   🤝  I'm open to collaborating on on anything really... especially if it is open source
@@ -47,7 +47,7 @@ Experience includes Ruby on Rails, JavaScript, Python3, React, SAP UI5 Fiori, Bi
                     
  ### Socials
                   
-<p align="left"> <a href="https://www.github.com/brew-o-doro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/teodoro-garcia-iii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@tedtke514" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gitForker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCWmN0R5sZZJtqhDNDSKXMNg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/sardine-bro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/teodoro-garcia-iii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@tedtke514" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gitForker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCWmN0R5sZZJtqhDNDSKXMNg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
