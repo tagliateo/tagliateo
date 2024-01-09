@@ -9,7 +9,7 @@ Experience includes Ruby on Rails, JavaScript, Python3, React, SAP UI5 Fiori, Bi
 *   🌍  I'm based in Austin, TX
 *   ✉️  You can contact me at [tedg18@pm.me](mailto:sardines@disroot.org)
 *   🚀  I'm currently looking for employment
-*   🧠  I'm learning Rust and Svelte
+*   🧠  I'm learning Go! Go Goblin for life
 *   🤝  I'm open to collaborating on on anything really... especially if it is open source
 *   ⚡  Btw I use Arch
 ### Skills
