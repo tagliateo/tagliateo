@@ -53,7 +53,7 @@ Experience includes Ruby on Rails, JavaScript, Python3, React, SAP UI5 Fiori, Bi
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sardine-bro"><img src="https://github-readme-stats.vercel.app/api?username=sardine-bro&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="brew-o-doro's GitHub stats" /></a>
+<a href="http://www.github.com/sardine-bro"><img src="https://github-readme-stats.vercel.app/api?username=sardine-bro&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sardine-bro's GitHub stats" /></a>
 
 <a href="http://www.github.com/sardine-bro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sardine-bro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
