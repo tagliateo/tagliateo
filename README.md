@@ -2,7 +2,7 @@
 
 ### A bit about me
 
-I like reading, hiking, cats, cold crisp fall days, and coding. (and vim btw) 🖥️
+I like playing rugby, hiking, cats, cold crisp fall days, and coding. (and vim btw) 🖥️
 
 ![gopher dancing](./dancing-gopher.gif)
 
