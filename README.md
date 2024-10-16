@@ -8,4 +8,4 @@ I like playing rugby, hiking, cats, cold crisp fall days, and coding. (and vim b
 
 ### The vibe
 
-:panda_face: relax, write some code, be a mate drinking Texan nerd, and enjoy life 🧉
+🐱 relax, write some code, be a mate drinking Texan nerd, and enjoy life 🧉
